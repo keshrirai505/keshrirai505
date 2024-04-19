@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, My name is Keshri Nandan Rai.
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**keshrirai505/keshrirai505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm Keshri Nandan Rai, a passionate software developer on a journey to create meaningful and impactful solutions through code.
 
-Here are some ideas to get you started:
+Skills: Html / CSS / Tailwindcss / Material UI / Bootstrap / Figma / Reactjs / Nextjs 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keshrirai505)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/keshrirai)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=keshrirai505)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keshrirai505&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/keshrirai505)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=keshrirai505)  
+
