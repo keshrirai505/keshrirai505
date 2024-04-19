@@ -2,12 +2,11 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-👋 Hello there! I'm Keshri Nandan Rai, a passionate software developer on a journey to create meaningful and impactful solutions through code.
+👋 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Tailwindcss , Html, CSS, Bootstarp, MaterialUI, ReactJS, Nextjs (JavaScript), Fimga and Echart.
 
-Skills: Html / CSS / Tailwindcss / Material UI / Bootstrap / Figma / Reactjs / Nextjs 
+Skills: Tailwindcss , Html, CSS, Bootstarp, MaterialUI, ReactJS, Nextjs (JavaScript), Fimga and Echart
 
-- 🔭 I’m currently working on this page. 
-
+- 🔭 I’m currently working on this page.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keshrirai505)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/keshrirai)  
 
